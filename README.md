@@ -12,6 +12,10 @@ I'm going to use `inquirer` to run the prompts, so that should give me the chanc
 
 ---
 
+## Here it is in action
+
+![README Genetrator](images/app-in-use.gif)
+
 ## My Approach
 
 ### Setting up the Prompt

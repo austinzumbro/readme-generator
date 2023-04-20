@@ -1,7 +1,7 @@
-# PROJECT NAME 
-![badge](https://img.shields.io/badge/license-APACHE%202.0-brightgreen)
+# README Generator 
+![badge](https://img.shields.io/badge/license-MIT-blue)
 ## Description
-DESCRIPTION
+This is a README generator.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,17 +14,17 @@ DESCRIPTION
 npm i
     
 ## Usage 
-NOTHING
+Nothing, really.
 
 ## Tests
 npm test
     
 ## Contributing
-SOMETHING
+Feel free to contribute!
 
 ## Questions
 If you have any questions, please send them my way!
-You can reach me on GitHub ([USERNAME](https://github.com/USERNAME/)) or by email ([EMAIL](EMAIL)).
+You can reach me on GitHub ([austinzumbro](https://github.com/austinzumbro/)) or by email ([test@test.com](test@test.com)).
 
 ## License
-APACHE 2.0
+MIT
