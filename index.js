@@ -52,7 +52,6 @@ inquirer.prompt([
         message: "What does the user need to know about contributing to the repo?"
     }
 ]).then((response) => {
-    console.log(response);
     let markdown = formatFile(response);
     fs.writeFile("generated/README.md", markdown, function (err) {
         if (err) {
